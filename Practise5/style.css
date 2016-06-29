@@ -1,0 +1,27 @@
+.wrap{
+	width:80%;
+	margin:auto;
+    overflow: hidden;
+    background-color:green;
+}
+
+.content,aside{
+	height: 600px;
+}
+
+.content{
+	background-color:yellow;
+	width: 80%;
+	float:left;
+}
+
+aside{																
+	background-color: red;
+	
+}
+
+
+aside ul{
+list-style: none;
+
+}			 
