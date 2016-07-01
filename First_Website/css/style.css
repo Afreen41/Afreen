@@ -1,0 +1,35 @@
+.wrap{
+	background-color: red;
+}
+
+
+nav li{
+
+	display:inline;
+	margin-left: 0;
+	margin-right: 30px;
+}
+
+
+
+.primary{
+	background-color: #e3e3e3;
+}
+
+
+aside{
+	background-color: green;
+}
+
+header{
+
+	background-color: yellow;
+}
+
+.main{
+	margin:30px 0;
+}
+
+section{
+	padding: 20px;
+}
