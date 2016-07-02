@@ -1,0 +1,1 @@
+document.write( '<script src="https://www.tripadvisor.com/WidgetEmbed-excellent?lang=en_US&locationId=455923&uniq=246"></script>' );
