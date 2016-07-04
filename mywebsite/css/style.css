@@ -4,7 +4,6 @@
 	font-family: sans-serif;
 }
 
-
 header{
 	position: fixed;
 	background-color:#800000;
@@ -45,9 +44,11 @@ text-decoration: :underline;
 color:black;
 }
 
+
+
 section img{
 	 height:400px;
-	 width: 400px;
+	 width: 300px;
 }
 
 .main{
@@ -139,4 +140,13 @@ footer img{
 	width:200px;
 	float:left;
 }
+
+
+
+footer a:hover{
+	text-decoration: underline;
+	color:blue;
+
+}
+
 
